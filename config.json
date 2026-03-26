@@ -1,0 +1,15 @@
+{
+    "mode": "dashboard",
+    "message": "HELLO WORLD",
+    "weather": {
+        "latitude": 40.71427,
+        "longitude": -74.00597,
+        "location_name": "New York, New York, United States",
+        "units": "celsius"
+    },
+    "theme": "dark",
+    "show_seconds": true,
+    "sound_enabled": true,
+    "flap_color": "#ffffff",
+    "rows": 4,
+    "cols": 25
